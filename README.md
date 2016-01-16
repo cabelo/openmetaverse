@@ -1,2 +1,3 @@
 # openhowold
-Alternative free of the Microsoft site HowOld.
+- Alternative free of the Microsoft site HowOld.
+
