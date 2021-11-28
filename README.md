@@ -1,3 +1,2 @@
-# openhowold
-- Alternative free of the Microsoft site HowOld.
-
+# openMetaVerso
+- Alternative opensource of the Metaverse
